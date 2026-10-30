@@ -1,4 +1,4 @@
-# 2N2AK LLC public pages
+# Public pages for Ralph Joiner's apps
 
 Served by GitHub Pages at https://rrj-ux.github.io/
 
